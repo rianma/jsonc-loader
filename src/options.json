@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "minify": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false
+}

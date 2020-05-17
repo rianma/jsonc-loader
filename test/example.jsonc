@@ -1,0 +1,7 @@
+{
+  /**
+   * This is JSON, but with comments
+   */
+  "name": "jsonc-loader", // inline comment
+  "author": "rianma"      /** block comment in one line **/
+}
