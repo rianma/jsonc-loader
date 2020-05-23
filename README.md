@@ -7,7 +7,6 @@
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
 [![cover][cover]][cover-url]
-[![chat][chat]][chat-url]
 [![size][size]][size-url]
 
 # jsonc-loader
@@ -80,6 +79,5 @@ Please take a moment to read our contributing guidelines if you haven't yet done
 [tests-url]: https://dev.azure.com/webpack-contrib/jsonc-loader/_build/latest?definitionId=2&branchName=master
 [cover]: https://codecov.io/gh/webpack-contrib/jsonc-loader/branch/master/graph/badge.svg
 [cover-url]: https://codecov.io/gh/rianma/jsonc-loader
-[chat-url]: https://gitter.im/webpack/webpack
 [size]: https://packagephobia.now.sh/badge?p=jsonc-loader
 [size-url]: https://packagephobia.now.sh/result?p=jsonc-loader
